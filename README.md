@@ -50,13 +50,6 @@ Steps
       =>Sales Trends
       =>Purchase Frequency
       =>Churn Prediction
-   
-6. Create a Report:
-   >Document the findings from the analysis and visualize the key metrics.
-   >Create a detailed report summarizing the insights and recommendations for the business.
-   
-7. Create PowerPoint Presentation:
-   >Use Gamma to create a professional PowerPoint presentation, summarizing the findings and        visualizations from Power BI and the report.
 
 Dashboard
 The Power BI dashboard created in this project allows stakeholders to interact with the data and view real-time insights, including:
